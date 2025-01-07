@@ -33,7 +33,7 @@
                 <div class="col-md-6">
                     <label asp-for="StakeHolderType" class="form-label">Stake Holder Type<span class="text-danger">*</span></label>
                     <select asp-for="StakeHolderType" class="form-select" required="required">
-                        <option value="" selected="selected">----Select----</option>
+                        <option value="" selected="selected" disabled="disabled">----Select----</option>
                         <option value="Student">Student</option>
                         <option value="Parent">Parent</option>
                         <option value="Staff">Staff</option>

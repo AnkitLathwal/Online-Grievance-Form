@@ -1,6 +1,6 @@
 ﻿@media (max-width: 768px) {
     .container {
-        background-color:aqua;
+       color:red;
         margin: 0 auto;
         width: 90%; /* Adjust the container width */
         padding: 15px;

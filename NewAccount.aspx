@@ -61,7 +61,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
 
 
-    <div class="container-fluid d-flex-center mt-5 w-25">
+    <div class="container-fluid d-flex-center mt-5 w-100">
         <div class="form-container">
             <h2 class="text-center">Create New Account</h2>
 
